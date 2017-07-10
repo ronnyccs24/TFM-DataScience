@@ -1,0 +1,739 @@
+estacion,lineas,salida,lon,lat
+Plaza ElÃ­ptica,"6, 11","Avenida Oporto, pares",-3.71848828640398,40.3852931498949
+Berna,ML 2,Berna,-3.79111011769252,40.444715872721
+Gregorio MaraÃ±Ã³n,"7, 10",Miguel Ãngel,-3.69138214122474,40.4379204067435
+Concha Espina,9,Plaza de CataluÃ±a,-3.67768383070614,40.4495710040498
+Parque Europa,12 (Metrosur),Francia,-3.80603298105847,40.2851760803063
+Plaza de Castilla,"1, 10, 9",Castellana,-3.68885712617033,40.4654868362343
+Plaza de Castilla,"1, 10, 9","PÂº Castellana, pares",-3.68918015208361,40.4668402137449
+Plaza de Castilla,"1, 10, 9","PÂº Castellana, impares",-3.68953048663851,40.4671848419553
+Valdeacederas,1,CapitÃ¡n Blanco Argibay,-3.69577753686292,40.4640979380323
+Valdeacederas,1,AnÃ­bal,-3.69403145608069,40.4647857894633
+TetuÃ¡n,1,Algodonales,-3.69926321197009,40.4598414313264
+TetuÃ¡n,1,General Margallo,-3.69790070108878,40.4611889702122
+Estrecho,1,Navarra,-3.70309124648773,40.4536406136057
+Atocha,1,Atocha,-3.692508813094,40.408845368046
+MenÃ©ndez Pelayo,1,Gutenberg,-3.68174005013948,40.4048512856121
+Ascao,7,Ascao,-3.64113856947109,40.4301705769255
+Banco de EspaÃ±a,2,Barquillo,-3.69578129445477,40.4190831121932
+Estrecho,1,Juan de OlÃ­as,-3.70282603827374,40.4537045306557
+Estrecho,1,Manuel Luna,-3.70253036110471,40.4552659766245
+Estrecho,1,Fulgencio de Miguel,-3.70276191227639,40.4552977973116
+Alvarado,1,"Bravo Murillo, impares",-3.70361345972551,40.4502251918575
+Alvarado,1,"Bravo Murillo, pares",-3.70337510424987,40.4501324545612
+Cuatro Caminos,"1, 2, 6","Reina Victoria, impares",-3.70423866837605,40.4467095743598
+Cuatro Caminos,"1, 2, 6",Santa Engracia,-3.70363025793525,40.4465494773776
+Cuatro Caminos,"1, 2, 6","Reina Victoria, pares",-3.70454067260812,40.4468899934453
+Cuatro Caminos,"1, 2, 6",Bravo Murillo,-3.70410352637976,40.4473611923975
+Cuatro Caminos,"1, 2, 6",Maudes,-3.70262006396867,40.4453418049152
+Iglesia,1,General MartÃ­nez Campos,-3.69823935119106,40.4350640162489
+Iglesia,1,Santa Engracia,-3.69848781953655,40.4347915271591
+Iglesia,1,Sagunto - Acceso cerrado temporalmente,-3.69842180713605,40.4339259319726
+Iglesia,1,"Eloy Gonzalo, pares",-3.69921373607524,40.4347309336093
+Iglesia,1,"Eloy Gonzalo, impares",-3.69929180095092,40.4349050827295
+Bilbao,"1, 4",Fuencarral,-3.70186383999244,40.429257933279
+Bilbao,"1, 4",Luchana,-3.70165784419797,40.4290653950593
+Bilbao,"1, 4",Manuela MalasaÃ±a,-3.7020261759477,40.4287797124465
+Bilbao,"1, 4",Francisco de Rojas,-3.70026866830525,40.4302638532815
+Bilbao,"1, 4","Luchana, impares",-3.70033172221652,40.4304733524681
+Bilbao,"1, 4",Trafalgar,-3.69986529614841,40.4308680452585
+Tribunal,"1, 10",BarcelÃ³,-3.70086464689729,40.4262635520883
+Tribunal,"1, 10",Fuencarral,-3.70099726544746,40.4262164449976
+Tribunal,"1, 10",Tribunal de Cuentas,-3.70108855318569,40.4256565778798
+Sol,"1, 2, 3",Carretas,-3.70349978501179,40.4166531305599
+Gran Via,"1, 5",Fuencarral,-3.70188606,40.42013858
+Gran Via,"1, 5",Hortaleza,-3.70138836,40.41986802
+Gran Via,"1, 5",Montera,-3.70163031,40.41954523
+Rios Rosas,1,"RÃ­os Rosas, impares",-3.70113515,40.44208615
+Rios Rosas,1,"RÃ­os Rosas, pares",-3.70121717,40.44189959
+Rios Rosas,1,BretÃ³n de los Herreros - Acceso cerrado temporalmente,-3.70127464,40.44054922
+Sol,"1, 2, 3",Carmen,-3.70333038496834,40.4171550396018
+Sol,"1, 2, 3",Mayor,-3.70454452569192,40.4167107632617
+Tirso de Molina,1,Magdalena - Acceso cerrado temporalmente,-3.70381978684046,40.4124392942672
+Tirso de Molina,1,Conde de Romanones,-3.70499304033247,40.4123907500058
+Atocha,1,Ministerio,-3.69055662980172,40.4084345730704
+Atocha Renfe,1 - Renfe,Alfonso XII,-3.68913888885043,40.4075182080975
+Atocha Renfe,1 - Renfe,Renfe,-3.6893258347659,40.4066000296294
+Atocha Renfe,1 - Renfe,Paseo Infanta Isabel,-3.6882063898107,40.4070203913271
+MenÃ©ndez Pelayo,1,"MenÃ©ndez Pelayo, impares",-3.68065538485676,40.4044564390327
+MenÃ©ndez Pelayo,1,"MenÃ©ndez Pelayo, pares",-3.680886570384,40.404545345922
+PacÃ­fico,"1, 6","Doctor Esquerdo, pares",-3.67481637598267,40.4015279767567
+PacÃ­fico,"1, 6","Doctor Esquerdo, impares",-3.67440913069927,40.4014467136733
+PacÃ­fico,"1, 6",SÃ¡nchez BarcaÃ­ztegui,-3.67617793136655,40.4022745227606
+Puente de Vallecas,1,PeÃ±a Prieta,-3.66895803954446,40.3984783420718
+Puente de Vallecas,1,"Albufera, impares",-3.66813206931211,40.3978178505225
+Puente de Vallecas,1,"Albufera, pares",-3.66819084949684,40.3976808203591
+Nueva Numancia,1,"Norte, pares",-3.66523046966428,40.3961317433755
+Nueva Numancia,1,"Sur, impares",-3.6633788781004,40.3953324554615
+Nueva Numancia,1,"Norte, impares",-3.66512834897773,40.3962421846571
+Nueva Numancia,1,"Sur, pares",-3.66347577622143,40.3952061094882
+Portazgo,1,"Albufera, impares",-3.65769517281636,40.392336535951
+Portazgo,1,Rogelio Folgueras,-3.65971310833195,40.393400580576
+Portazgo,1,"Albufera, pares",-3.65982030540176,40.3932817478343
+Portazgo,1,Teniente MuÃ±oz DÃ­az,-3.65780633852477,40.3922225791439
+Buenos Aires,1,PÃ­o Felipe,-3.65393953858493,40.3917129490712
+Buenos Aires,1,Buenos Aires,-3.65392398539722,40.3913539978683
+Alto del Arenal,1,"Albufera, impares",-3.64532155437654,40.3901728840333
+Alto del Arenal,1,"Albufera, pares",-3.64567834854054,40.3897204552476
+Alto del Arenal,1,Ascensor,-3.64564170291099,40.3899668941152
+Miguel HernÃ¡ndez,1,Rafael Alberti - Ambulatorio,-3.6399260627734,40.3875357650169
+Miguel HernÃ¡ndez,1,Aparcamiento,-3.63937854197846,40.3868772368926
+Miguel HernÃ¡ndez,1,"Albufera, pares",-3.63956308181877,40.3868512465289
+Miguel HernÃ¡ndez,1,Ascensor,-3.63970752727085,40.3873635998739
+Sierra de Guadalupe,1 - Renfe,Avenida de la Democracia,-3.62497468300014,40.3822240091869
+Sierra de Guadalupe,1 - Renfe,Ascensor,-3.62461148185514,40.3819240746452
+Sierra de Guadalupe,1 - Renfe,Sierra de Guadalupe,-3.62464585272382,40.3819204181794
+Sierra de Guadalupe,1 - Renfe,Avda. de la Democracia - Arboleda - Acceso cerrado temporalmente,-3.62508621001682,40.3830758829544
+Villa de Vallecas,1,PÂº Federico GarcÃ­a Lorca,-3.62119620102158,40.3794801869388
+Villa de Vallecas,1,Sierra Vieja,-3.62179722159636,40.3797648473478
+Villa de Vallecas,1,Ascensor,-3.62129620193195,40.3796053532398
+Congosto,1,Congosto,-3.61861122639878,40.3719468869945
+Congosto,1,Plaza de Congosto,-3.61856971471969,40.3722689957788
+Congosto,1,Ascensor,-3.61867588721123,40.3721528527924
+La Gavia,1,Avda. Ensanche de Vallecas,-3.61254577784834,40.3692203222096
+Anton Martin,1,"Atocha, pares - Acceso cerrado temporalmente",-3.69745782,40.41143159
+Anton Martin,1,"Atocha, impares- Acceso cerrado temporalmente",-3.69736646,40.41154028
+La Gavia,1,Ascensor,-3.61262278578369,40.3692087133868
+Las Suertes,1,CaÃ±ada del SantÃ­simo,-3.59953047644121,40.3632385786268
+Las Suertes,1,Ascensor,-3.59955681897574,40.363206591263
+Valdecarros,1,Avda. Ensanche de Vallecas,-3.59316889086503,40.3600851732482
+Valdecarros,1,Ascensor,-3.59320311155948,40.360046475048
+Canal,"2, 7","Bravo Murillo, pares",-3.70412547585124,40.4383468305798
+La Granja,10,Ascensor,-3.6585776238346,40.5276850202001
+Canal,"2, 7","Bravo Murillo, impares",-3.70434192163066,40.4382870517159
+Canal,"2, 7",Ascensor,-3.70439949338496,40.4385148234059
+Quevedo,2,Arapiles,-3.70462910987524,40.4333265676601
+Quevedo,2,Fuencarral,-3.70434762550848,40.4331339183712
+San Bernardo,"2, 4",Alberto Aguilera,-3.70607400663791,40.4298656096426
+San Bernardo,"2, 4",Carranza,-3.70531594633745,40.4296986309876
+Noviciado,2,MÂº Justicia,-3.70745609726574,40.4242193864048
+Noviciado,2,Noviciado,-3.70742651078945,40.4254805065109
+Santo Domingo,2,Santo Domingo,-3.70855021237474,40.4204190067755
+Santo Domingo,2,Gran VÃ­a,-3.7078152910279,40.4213199649031
+Ãpera,"2, 5, R",Isabel II,-3.70949795745574,40.4179990891301
+Sevilla,2,Sevilla,-3.6994508240762,40.4177412245878
+Sevilla,2,Virgen de los Peligros,-3.69959915940656,40.4179161671651
+Sevilla,2,Iglesia de Calatrava,-3.69915706881813,40.4180562600425
+Banco de EspaÃ±a,2,Palacio de Buenavista,-3.6942017928916,40.419353768352
+Banco de EspaÃ±a,2,Banco de EspaÃ±a,-3.69438296578508,40.4190061240185
+Banco de EspaÃ±a,2,MarquÃ©s de Cubas,-3.6956906264786,40.4187529554744
+Retiro,2,Lagasca,-3.68583343872525,40.4207589049758
+Retiro,2,Retiro,-3.68543234344186,40.4202476343462
+Retiro,2,Claudio Coello,-3.68707123237063,40.4204530046752
+PrÃ­ncipe de Vergara,"2, 9",AlcalÃ¡,-3.67980318847021,40.4230559160517
+Goya,"2, 4","Conde de PeÃ±alver, pares",-3.67558189309517,40.4249751336513
+Goya,"2, 4","Conde de PeÃ±alver, impares",-3.6758149424634,40.4250574289579
+Goya,"2, 4","Felipe II, pares",-3.67616359365527,40.4239052005099
+Goya,"2, 4","Felipe II, impares",-3.6761431992087,40.4242147459689
+Goya,"2, 4",General DÃ­az Porlier,-3.67755095257152,40.4247808163719
+Goya,"2, 4",Centro Comercial,-3.67504579612426,40.4245440961785
+Manuel Becerra,"2, 6",D. RamÃ³n de la Cruz,-3.66951917376306,40.4281722638534
+Manuel Becerra,"2, 6",Doctor Esquerdo,-3.66929543438643,40.4276302404883
+Ventas,"2, 5",Plaza de Toros,-3.66334970499082,40.4310410725563
+La Elipa,2,Avda. MarquÃ©s de Corbera,-3.6508886522005,40.4263054260277
+Moncloa,"3, 6",Princesa,-3.71895197938269,40.4346882605376
+Moncloa,"3, 6",Ascensor,-3.71961449410207,40.4346709284239
+Moncloa,"3, 6",Intercambiador,-3.71952413595277,40.4346957064668
+ArgÃ¼elles,"3, 4, 6",Princesa,-3.71593331727498,40.4303535484987
+ArgÃ¼elles,"3, 4, 6",Alberto Aguilera,-3.71561598672336,40.4306773550321
+ArgÃ¼elles,"3, 4, 6",Altamirano,-3.71703569362566,40.431509386829
+ArgÃ¼elles,"3, 4, 6",GuzmÃ¡n El Bueno,-3.71438007355692,40.4305568509871
+Ventura RodrÃ­guez,3,"Princesa, impares",-3.71373718653198,40.4269324397822
+Plaza de EspaÃ±a,"3, 10",Leganitos,-3.7109391499648,40.423200044698
+Plaza de EspaÃ±a,"3, 10",Coliseum,-3.7105323771681,40.4233238130215
+Plaza de EspaÃ±a,"3, 10",Plaza de EspaÃ±a,-3.71198488545864,40.4241418384309
+Plaza de EspaÃ±a,"3, 10",Reyes,-3.71069444440769,40.4236243745425
+Plaza de EspaÃ±a,"3, 10",Princesa,-3.7115054961969,40.4245548252947
+Plaza de EspaÃ±a,"3, 10",Ascensor,-3.70923526291156,40.4245722367188
+Callao,"3, 5",Plaza de Callao,-3.70578857858118,40.4200443414425
+Callao,"3, 5",Cine Avenida,-3.70538135558732,40.4201832323246
+Callao,"3, 5",Palacio de la Prensa,-3.70604427096981,40.4204694647963
+LavapiÃ©s,3,Argumosa,-3.70071401122855,40.4084541177567
+Embajadores,3 - Renfe,Renfe,-3.70237570581194,40.4054091465232
+Embajadores,3 - Renfe,Ronda de Valencia - Acceso cerrado temporalmente,-3.70185014215306,40.4050674222253
+Embajadores,3 - Renfe,Embajadores,-3.70261608160252,40.4046122656877
+Palos de la Frontera,3,Paseo de las Delicias,-3.69403311412833,40.4029510478608
+Palos de la Frontera,3,"Palos de la Frontera, impares",-3.69436740316098,40.4031569822017
+Delicias,3,CÃ¡ceres,-3.69433773599405,40.3985958600416
+Delicias,3,Ciudad Real,-3.69420074882808,40.3998199782466
+Legazpi,"3, 6",Plaza de Legazpi,-3.69458647791899,40.3914112491792
+Legazpi,"3, 6",Beata MarÃ­a Ana de JesÃºs,-3.69495207792001,40.3932362949967
+Almendrales,3,"Avenida de CÃ³rdoba, impares",-3.69785940580303,40.3841141699846
+Almendrales,3,"Avenida de CÃ³rdoba, pares",-3.6983890835736,40.383898458877
+Almendrales,3,Ascensor,-3.69841755133778,40.3839240547529
+Hospital 12 de Octubre,3,Glorieta de MÃ¡laga,-3.69585460142158,40.3754186506515
+Hospital 12 de Octubre,3,Ascensor,-3.69575096976958,40.3752025477437
+San FermÃ­n - Orcasur,3,Avenida Perla,-3.69414481191134,40.3698283783346
+San FermÃ­n - Orcasur,3,Ascensor,-3.69410296805407,40.3696096578187
+Ciudad de los Ãngeles,3,Paseo Gigantes y Cabezudos,-3.69366972075117,40.359956849816
+Ciudad de los Ãngeles,3,Ascensor,-3.69365877380286,40.3597223757711
+Ciudad de los Ãngeles,3,Tertulia,-3.69296113633094,40.359629344157
+Villaverde Bajo Cruce,3,Santiago AmÃ³n,-3.6933655157919,40.3506535975007
+Villaverde Bajo Cruce,3,Santa Petronila,-3.69257083624048,40.3510095666097
+Villaverde Bajo Cruce,3,Ascensor,-3.69256317059868,40.3508006639996
+San CristÃ³bal,3,Moncada,-3.69243731613683,40.3412027219084
+San CristÃ³bal,3,Ascensor,-3.69245301929828,40.341445639376
+San CristÃ³bal,3,"Avenida de AndalucÃ­a, pares",-3.69314625590172,40.3416628635997
+Villaverde Alto,3 - Renfe,Valle de Tobalina,-3.71279090698803,40.3410515286834
+Villaverde Alto,3 - Renfe,Ascensor,-3.71266730879434,40.341047582886
+Villaverde Alto,3 - Renfe,Renfe,-3.71236205280472,40.3415842340623
+Alonso MartÃ­nez,"4, 5, 10",Santa BÃ¡rbara,-3.6959266551495,40.427445283316
+Alonso MartÃ­nez,"4, 5, 10","GÃ©nova, pares",-3.69544950548287,40.4273849041924
+Alonso MartÃ­nez,"4, 5, 10",Santa Engracia,-3.69557271962242,40.4280266881044
+Alonso MartÃ­nez,"4, 5, 10",Hermanos Ãlvarez Quintero,-3.69703747025419,40.4278278651387
+ColÃ³n,4,"GÃ©nova, impares",-3.69169023725563,40.425750278246
+ColÃ³n,4,"GÃ©nova, pares",-3.6914946440072,40.4252314457848
+Serrano,4,Serrano,-3.687587689618,40.4254737504363
+Serrano,4,"Goya, pares",-3.68757697245859,40.4252768016142
+Serrano,4,"Goya, impares",-3.68611255974243,40.4253949830776
+Serrano,4,"Goya, pares",-3.68611623896501,40.4252038437113
+VelÃ¡zquez,4,"Goya, pares",-3.68343264962925,40.4250668311588
+VelÃ¡zquez,4,"Goya, impares",-3.68328786767537,40.4252543120937
+VelÃ¡zquez,4,"Goya, pares",-3.68184348618462,40.4249914009521
+VelÃ¡zquez,4,"Goya, impares",-3.68184908018116,40.4251869956137
+Lista,4,Conde de PeÃ±alver,-3.67541933962444,40.4296866767682
+Lista,4,Conde de PeÃ±alver,-3.67552623725726,40.4286392603501
+Diego de LeÃ³n,"4, 5, 6",Juan Bravo - Conde PeÃ±alver,-3.67484424246697,40.4324106434878
+Diego de LeÃ³n,"4, 5, 6",Juan Bravo - AlcÃ¡ntara,-3.673695913652,40.4323483248704
+Diego de LeÃ³n,"4, 5, 6","Francisco Silvela, pares",-3.67238484799392,40.4326291582869
+Diego de LeÃ³n,"4, 5, 6",AlcÃ¡ntara,-3.67330612163416,40.4331632457049
+Diego de LeÃ³n,"4, 5, 6","Francisco Silvela, pares",-3.67450641704367,40.4350056979395
+Diego de LeÃ³n,"4, 5, 6","Francisco Silvela, impares (rampa)",-3.67494281232933,40.4347629158696
+Diego de LeÃ³n,"4, 5, 6",Diego de LeÃ³n,-3.67506105503897,40.434632022932
+Avenida de AmÃ©rica,"4, 6, 7, 9","Intercambiador - Avenida de AmÃ©rica, impares",-3.67674751526594,40.437973515632
+Avenida de AmÃ©rica,"4, 6, 7, 9",Pedro Valdivia,-3.67937381758173,40.4387566105062
+Prosperidad,4,Plaza Prosperidad,-3.67489023447791,40.4441832869993
+Alfonso XIII,4,Clara del Rey,-3.66784163576967,40.4481886769227
+Avenida de la Paz,4,"RamÃ³n y Cajal , impares",-3.6623578840904,40.4534890486481
+Avenida de la Paz,4,Avda. de la Paz,-3.66371302342413,40.4526628386595
+Avenida de la Paz,4,"RamÃ³n y Cajal, pares",-3.66202731355028,40.4532336518359
+Arturo Soria,4,Ulises,-3.65613996375574,40.456050847658
+Arturo Soria,4,Arturo Soria,-3.65600977706836,40.4556248376918
+Arturo Soria,4,"JosÃ© Silva, impares - Acceso cerrado temporalmente",-3.65672282918998,40.4556131032639
+Arturo Soria,4,"Ulises, impares",-3.65452248235542,40.4569178626702
+Esperanza,4,Andorra,-3.64585535846747,40.4595506427629
+Canillas,4,RamÃ³n Power,-3.63516071447304,40.4637459469232
+Canillas,4,Montalbos,-3.63575576769652,40.4645976260098
+Canillas,4,Mota del Cuervo,-3.63544218765583,40.4651098757049
+Canillas,4,Ascensor,-3.63560243826006,40.4637604713853
+Mar de Cristal,"4, 8",Arequipa,-3.63829167150331,40.4688994762288
+Mar de Cristal,"4, 8",Gta. Mar de Cristal,-3.6388766429463,40.4694461492345
+Mar de Cristal,"4, 8",Mar AdriÃ¡tico,-3.63853559219851,40.4701393850933
+Mar de Cristal,"4, 8",Ascensor,-3.63887792791407,40.4694074766636
+San Lorenzo,4,"Avenida Barranquilla, pares",-3.63940005906095,40.474503188519
+San Lorenzo,4,"Avenida Barranquilla, impares",-3.63956965191886,40.4745182044585
+San Lorenzo,4,Ascensor,-3.63942787984811,40.4742750834798
+Parque de Santa MarÃ­a,4,Santa Virgilia,-3.64549569984301,40.4771287557145
+Parque de Santa MarÃ­a,4,Los Arcos,-3.64517102281771,40.4772517028991
+Parque de Santa MarÃ­a,4,Ascensor,-3.64499267671739,40.4769736428937
+Hortaleza,4,CapitÃ¡n CortÃ©s,-3.65242766924708,40.4750411779559
+Hortaleza,4,Costa del Sol,-3.65203396918627,40.4744676017795
+Manoteras,4,VÃ©lez Rubio,-3.66282575482413,40.4765657047045
+Manoteras,4,Ascensor,-3.662689734717,40.4764124222518
+Pinar de ChamartÃ­n,"4, 1",Arturo Soria,-3.66676528567004,40.4801723893096
+Pinar de ChamartÃ­n,"4, 1",Ascensor,-3.66682634979311,40.4801202115967
+Aluche,5 - Renfe,Renfe,-3.76115130168596,40.385876947357
+Aluche,5 - Renfe,Maqueda,-3.76037280323041,40.3854729835602
+Aluche,5 - Renfe,Avenida de los Poblados,-3.760650127146,40.3853447006942
+Aluche,5 - Renfe,Terminal Autobuses,-3.76087496183506,40.3860029606205
+Eugenia de Montijo,5,Nuestra SeÃ±ora de la Luz,-3.75063647587096,40.3847233894775
+Carabanchel,5,Glorieta del EjÃ©rcito,-3.74492154916524,40.3878843437958
+Vista Alegre,5,PinzÃ³n,-3.73988738344945,40.3886998122126
+Vista Alegre,5,Oca,-3.7375847440431,40.3892727737723
+Oporto,"5, 6",Valle de Oro,-3.73127774731693,40.3884438882065
+Oporto,"5, 6",Oca,-3.7316633138815,40.388687325842
+Oporto,"5, 6","General Ricardos, pares",-3.72988663372609,40.3898476669919
+Oporto,"5, 6","General Ricardos, impares",-3.72976786618613,40.3897216533651
+Urgel,5,Toboso,-3.72533835420996,40.3926418568617
+Urgel,5,San Patricio,-3.72544450288979,40.3923332733234
+Urgel,5,Camino Viejo de LeganÃ©s,-3.72365844217276,40.3932767985324
+Urgel,5,PeÃ±afiel,-3.7237367904889,40.3935079098934
+MarquÃ©s de Vadillo,5,Antonio Leyva,-3.7161214780816,40.39731366255
+MarquÃ©s de Vadillo,5,Avda. Emperatriz Isabel,-3.71642206702881,40.3976335564597
+PirÃ¡mides,5 - Renfe,"PÂº de las Acacias, pares",-3.71282449418568,40.4015835167724
+PirÃ¡mides,5 - Renfe,"PÂº de las Acacias, impares",-3.71266605804025,40.4014460108902
+PirÃ¡mides,5 - Renfe,Ascensor,-3.71136301927721,40.4025418637598
+PirÃ¡mides,5 - Renfe,Renfe,-3.71141202006637,40.4025676908975
+Acacias,"3, 5",Paseo de la Esperanza,-3.70654284323769,40.403724498882
+Puerta de Toledo,5,Puerta de Toledo,-3.71082478067149,40.4068003895515
+La Latina,5,San Francisco,-3.70867854480638,40.4111216690127
+La Latina,5,San MillÃ¡n,-3.70815119588123,40.4111075991013
+La Latina,5,Toledo,-3.70824005917612,40.4116262246696
+Chueca,5,Plaza de Chueca,-3.69768567888099,40.4226129674879
+RubÃ©n DarÃ­o,5,Almagro,-3.69094805224681,40.432789242899
+RubÃ©n DarÃ­o,5,Miguel Ãngel,-3.69099904704266,40.4331551525743
+RubÃ©n DarÃ­o,5,Castellana,-3.68872174886871,40.4332641358486
+NÃºÃ±ez de Balboa,"5, 9",VelÃ¡zquez,-3.68308919469953,40.4328086149178
+NÃºÃ±ez de Balboa,"5, 9",NÃºÃ±ez de Balboa,-3.6823481449631,40.4327686999449
+NÃºÃ±ez de Balboa,"5, 9",Pza. MarquÃ©s de Salamanca,-3.67932067964903,40.4297623259837
+NÃºÃ±ez de Balboa,"5, 9",Aparcamiento,-3.67938534864658,40.430512952132
+El Carmen,5,J. Villena,-3.65470105666101,40.4321074309834
+El Carmen,5,Alcalde LÃ³pez Casero,-3.65536363971007,40.4323935769123
+El Carmen,5,Hermanos FernÃ¡ndez Lanseros,-3.65747144027957,40.4317660880025
+El Carmen,5,Raquel Meyer,-3.65741646948357,40.4319056729242
+Quintana,5,Hermanos Machado,-3.64912247331059,40.4329014446191
+Quintana,5,Argentina,-3.64907582011933,40.4330706084208
+Quintana,5,Ezequiel Solana,-3.64700088318857,40.4335593804125
+Quintana,5,Virgen del Sagrario,-3.64752178136225,40.4336530537138
+Pueblo Nuevo,"5, 7",Doctor Vallejo,-3.64212946159619,40.4360945069077
+Pueblo Nuevo,"5, 7",Vicente Espinel,-3.64185904314256,40.4360529126343
+Pueblo Nuevo,"5, 7",Campuzano,-3.64208503516317,40.4359381439905
+Pueblo Nuevo,"5, 7",Hermanos de Pablo,-3.64383443661153,40.4352683990818
+Pueblo Nuevo,"5, 7",Emilio Ferrari,-3.64383512228584,40.4350903173195
+Ciudad Lineal,5,Hnos. GarcÃ­a Noblejas,-3.63808336414123,40.437607611858
+Ciudad Lineal,5,Misterios,-3.63848983453195,40.437830506136
+Ciudad Lineal,5,Arturo Soria,-3.6380044402206,40.4381628404357
+Ciudad Lineal,5,AlbarracÃ­n,-3.63607893194947,40.4383107049628
+Suanzes,5,"AlcalÃ¡, pares",-3.62716898178602,40.4407629665029
+Suanzes,5,"AlcalÃ¡, impares",-3.62687125120303,40.4410002644221
+Torre Arias,5,"AlcalÃ¡, impares",-3.61714220858707,40.4437109576405
+Torre Arias,5,"AlcalÃ¡, pares",-3.61706218419335,40.4435485251465
+Canillejas,5,"AlcalÃ¡, impares",-3.60811754264511,40.4494815879064
+Canillejas,5,"AlcalÃ¡, pares",-3.60810210230782,40.4491063847071
+El Capricho,5,Velero,-3.59488976209368,40.4529708977908
+El Capricho,5,Ascensor,-3.59437706528594,40.4533098197223
+El Capricho,5,Pinos de Osuna - Acceso cerrado temporalmente,-3.59360235046916,40.4535714991582
+Alameda de Osuna,5,Corbeta,-3.58802683938971,40.45745096147
+Alameda de Osuna,5,Ascensor,-3.58774996611309,40.4575314986976
+Nuevos Ministerios,"6, 8, 10 - Renfe",Ascensor nÂº1,-3.69321358140853,40.4468806351005
+Nuevos Ministerios,"6, 8, 10 - Renfe","PÂº de la Castellana, pares",-3.6907399484588,40.4457919412186
+Nuevos Ministerios,"6, 8, 10 - Renfe","PÂº de la Castellana, impares",-3.6917098669852,40.4458497775413
+Nuevos Ministerios,"6, 8, 10 - Renfe",Orense,-3.6953891214765,40.447033012843
+Nuevos Ministerios,"6, 8, 10 - Renfe",AgustÃ­n de Betancourt,-3.6952606411711,40.4461319335951
+Nuevos Ministerios,"6, 8, 10 - Renfe",Centro Comercial,-3.6931321835167,40.4469824836091
+Nuevos Ministerios,"6, 8, 10 - Renfe",Ascensor nÂº 6,-3.69092427565461,40.4445639135983
+Nuevos Ministerios,"6, 8, 10 - Renfe","PÂº de la Castellana, pares",-3.69093291892611,40.4444433897951
+RepÃºblica Argentina,6,RepÃºblica Argentina,-3.68490872019788,40.445042786842
+RepÃºblica Argentina,6,"JoaquÃ­n Costa, impares",-3.68363091461916,40.443639941242
+RepÃºblica Argentina,6,"JoaquÃ­n Costa, pares",-3.68394694803579,40.4434331658125
+O'Donnell,6,O`Donnell,-3.66917045801628,40.4215749300092
+O'Donnell,6,Casa de la Moneda,-3.66913246703337,40.4230077289998
+O'Donnell,6,"J. Juan - Dr. Esquerdo, pares",-3.66903788436544,40.4231439511576
+O'Donnell,6,"J. Juan - Dr. Esquerdo, impares",-3.66866440474976,40.422841461967
+SÃ¡inz de Baranda,"6, 9",SÃ¡inz de Baranda,-3.66966247974866,40.4154763290934
+SÃ¡inz de Baranda,"6, 9",JosÃ© MartÃ­nez de Velasco,-3.66929368321701,40.4153966819763
+SÃ¡inz de Baranda,"6, 9","Moneda, impares",-3.66936466947905,40.4147580537327
+SÃ¡inz de Baranda,"6, 9","Moneda, pares",-3.66971713157577,40.4147813748315
+Conde de Casal,6,Doctor Esquerdo,-3.67001543174447,40.4070692245502
+Conde de Casal,6,Conde de Casal,-3.67053089970126,40.4069418331508
+Conde de Casal,6,"Doctor Esquerdo, impares - Acceso cerrado temporalmente",-3.66986096605202,40.4087199022863
+Conde de Casal,6,"Doctor Esquerdo, pares - Acceso cerrado temporalmente",-3.67022266567763,40.4087115992882
+MÃ©ndez Ãlvaro,6 - Renfe,"MÃ©ndez Ãlvaro, impares",-3.68062724195709,40.3961376388529
+MÃ©ndez Ãlvaro,6 - Renfe,"MÃ©ndez Ãlvaro, pares",-3.68088746917948,40.3959592499092
+MÃ©ndez Ãlvaro,6 - Renfe,Renfe,-3.67878812879223,40.3962955985157
+MÃ©ndez Ãlvaro,6 - Renfe,Intercambiador,-3.67844636187664,40.3954752175069
+Usera,6,Amparo Usera,-3.70665449056018,40.3870291007172
+Usera,6,Mirasierra,-3.70401528342844,40.3884049289324
+Plaza ElÃ­ptica,"6, 11",Pza. FernÃ¡ndez Ladreda,-3.71775652529761,40.3855944065128
+Plaza ElÃ­ptica,"6, 11","Marcelo Usera, pares",-3.71622605659816,40.3853288571467
+Plaza ElÃ­ptica,"6, 11","Marcelo Usera, impares",-3.71668693508603,40.3851186799289
+OpaÃ±el,6,"Portalegre, impares",-3.72345809073327,40.3856676741529
+OpaÃ±el,6,"Portalegre, pares",-3.72342684882591,40.3866459041681
+Carpetana,6,VÃ­a Carpetana,-3.74134678232657,40.3927726531591
+Laguna,6 - Renfe,Renfe,-3.74408677198586,40.3989107726297
+Laguna,6 - Renfe,"Alhambra, pares",-3.74460879600738,40.3991611453473
+Laguna,6 - Renfe,"Alhambra, impares",-3.74421989939595,40.3990146867017
+Lucero,6,Cebreros,-3.74561263153133,40.4047721647644
+Lucero,6,Higueras,-3.74506184996958,40.4048480704807
+Lucero,6,Ascensor,-3.74552794225558,40.4047549188268
+Alto de Extremadura,6,Pza. Alto de Extremadura,-3.73905373079105,40.4099173407668
+Alto de Extremadura,6,Francisco Brizuela,-3.73888127584967,40.4096967577441
+Puerta del Ãngel,6,Plaza Santa Cristina,-3.72723430259569,40.4141028546612
+Puerta del Ãngel,6,Caramuel,-3.72705393737575,40.413578314304
+PrÃ­ncipe PÃ­o,"6, 10, R - Renfe",Intercambiador,-3.72010629775837,40.4213301042483
+Ciudad Universitaria,6,Facultades,-3.72657351516274,40.4436294375706
+Ciudad Universitaria,6,Avda. Complutense,-3.72691747314856,40.4435504286834
+Ciudad Universitaria,6,Ascensor,-3.7268708429946,40.4436405450337
+Metropolitano,6,Gregorio del Amo,-3.71997135237623,40.4462784333151
+Metropolitano,6,Juan XXIII,-3.71805958384098,40.4466019841084
+GuzmÃ¡n El Bueno,"6, 7",General Rodrigo,-3.71402806079499,40.4456837043825
+GuzmÃ¡n El Bueno,"6, 7","Avda. Reina Victoria, impares-GuzmÃ¡n el Bueno",-3.71304870299498,40.4460445019215
+GuzmÃ¡n El Bueno,"6, 7",Los Vascos - Acceso cerrado temporalmente,-3.71016002076624,40.4470868121086
+GuzmÃ¡n el Bueno,"6, 7","Avda. Reina Victoria, pares",-3.70997439665463,40.4471327287696
+Arganzuela-Planetario,6,Bronce,-3.68845244150403,40.3927090158001
+Pitis,7 - Renfe,Camino de PeÃ±agrande,-3.7257364707906,40.4954099126583
+Pitis,7 - Renfe,Renfe,-3.7263428078504,40.4951769477313
+Pitis,7 - Renfe,Ascensor,-3.72583175334186,40.4952827498752
+Lacoma,7,RamÃ³n GÃ³mez de la Serna,-3.72327561784067,40.4846696274122
+Lacoma,7,Riscos de Polanco,-3.72287860934252,40.4851422760968
+Lacoma,7,Ascensor,-3.72283243528491,40.4848362720358
+Avda. IlustraciÃ³n,7,Islas CÃ­es,-3.7183414341875,40.4800825484897
+Avda. IlustraciÃ³n,7,Ascensor,-3.71835901263736,40.4801307653397
+PeÃ±agrande,7,"Vereda de Ganapanes, impares",-3.71610814416936,40.4760424990365
+PeÃ±agrande,7,"Vereda de Ganapanes, pares",-3.71584739867877,40.4760792311245
+PeÃ±agrande,7,Ascensor,-3.71613429088815,40.4758534860795
+Antonio Machado,7,Valderrodrigo - Valdesangil,-3.71780588525291,40.470093944813
+Antonio Machado,7,Ascensor,-3.71787361207471,40.4702617783627
+Valdezarza,7,San Restituto,-3.71676200923189,40.4651364767067
+Valdezarza,7,Ascensor,-3.71657455543324,40.4649953694443
+Valdezarza,7,Emerenciana Zurilla,-3.7151106408524,40.4648714658017
+Valdezarza,7,Armenteros,-3.71448244675084,40.4644656215741
+Francos Rodriguez,7,Moguer,-3.71277838370296,40.4565852321308
+Francos Rodriguez,7,Alejandro RodrÃ­guez,-3.71177723077405,40.4562755064861
+Francos Rodriguez,7,"Pablo Iglesias, impares - Francos RodrÃ­guez",-3.71186780843206,40.4571686048603
+Francos Rodriguez,7,"Pablo Iglesias, pares - Francos RodrÃ­guez",-3.71160816083189,40.4571469740854
+Francos Rodriguez,7,Ascensor,-3.71202215003969,40.4565820576101
+Islas Filipinas,7,Cea BermÃºdez pares - Gaztambide,-3.71499580958411,40.4392304497248
+Islas Filipinas,7,Cea BermÃºdez impares - Gaztambide,-3.71501940316895,40.4390099665367
+Islas Filipinas,7,Cea BermÃºdez pares - GuzmÃ¡n El Bueno,-3.71305625480854,40.4391525592914
+Islas Filipinas,7,Cea BermÃºdez impares - GuzmÃ¡n El Bueno,-3.71306965683854,40.438932657443
+Alonso Cano,7,JosÃ© Abascal - Alonso Cano,-3.69842840389941,40.4383290276137
+Alonso Cano,7,JosÃ© Abascal - Ponzano,-3.69881622311573,40.4383334989534
+Alonso Cano,7,Ascensor,-3.69900389990422,40.4383490324911
+Gregorio MaraÃ±Ã³n,"7, 10",JosÃ© Abascal,-3.69140086009568,40.4382323741411
+Gregorio MaraÃ±Ã³n,"7, 10",Ascensor,-3.69198924495882,40.4379919128582
+Cartagena,7,"Avda. de AmÃ©rica, pares",-3.67201319185074,40.439037626254
+Cartagena,7,"Avda. AmÃ©rica, impares",-3.67219905495419,40.439442853291
+Parque de las Avenidas,7,"Avenida de Bruselas, pares",-3.66287315573545,40.4394453640722
+Parque de las Avenidas,7,"Avenida de Bruselas, impares",-3.66307446017982,40.4394441240543
+Barrio de la ConcepciÃ³n,7,MartÃ­nez Villergas,-3.65190167678599,40.4392435835324
+Barrio de la ConcepciÃ³n,7,Virgen del Romero,-3.65167974173374,40.4385446815535
+GarcÃ­a Noblejas,7,Hermanos GarcÃ­a Noblejas,-3.63205300879032,40.4290777651969
+GarcÃ­a Noblejas,7,JosÃ© Arcones Gil,-3.63419271533403,40.4282202057135
+Simancas,7,Amposta,-3.62298454800028,40.4275707814761
+Simancas,7,Castillo de UclÃ©s,-3.62580547598733,40.427866242487
+Simancas,7,ZaratÃ¡n,-3.62562133206436,40.4284352183091
+San Blas,7,"Pobladura del Valle, pares",-3.61624951841037,40.4274543956486
+San Blas,7,"Pobladura del Valle, impares",-3.61581971043969,40.4280190047913
+Las Musas,7,"Avda. Niza, impares",-3.60789968824574,40.4325576078328
+Estadio Metropolitano,7,Estocolmo,-3.60166091843832,40.4329856861988
+Barrio del Puerto,7,Avda. EspaÃ±a,-3.56892882039686,40.4225489572492
+Coslada Central,7 - Renfe,Doctor Fleming,-3.56193441719512,40.4239383721566
+Coslada Central,7 - Renfe,Ascensor,-3.56198325146653,40.4238218193776
+Coslada Central,7 - Renfe,Renfe,-3.56117464428531,40.4231503733237
+La Rambla,7,Honduras,-3.54796716684468,40.4251658115252
+La Rambla,7,Ascensor,-3.54790458816706,40.4251536811537
+San Fernando,7,Gonzalo de CÃ³rdoba,-3.53555903367974,40.424403095127
+Jarama,7,Plaza Guernica,-3.52530689844491,40.4228843874729
+Henares,7,Algorta,-3.52734753242368,40.4177422733319
+Colombia,"8, 9","PrÃ­ncipe Vergara, impares - Colombia",-3.67717261095124,40.4566194753803
+Colombia,"8, 9","PrÃ­ncipe Vergara, pares - Colombia",-3.67688785087468,40.4566051507702
+Colombia,"8, 9","Ppe. Vergara, impares - Pza. Rep. Dominicana",-3.67704515769582,40.4577440694275
+Colombia,"8, 9","Ppe. Vergara, pares - Pza. Rep. Dominicana",-3.67676076049742,40.4577357125824
+Colombia,"8, 9",Ascensor,-3.67722605934435,40.4572049697432
+Feria de Madrid,8,Avda. Capital de EspaÃ±a - Madrid,-3.61620043516456,40.4634621414976
+Feria de Madrid,8,"Feria de Madrid, pabellones, impares",-3.61681195367202,40.464048343198
+Feria de Madrid,8,"Feria de Madrid, pabellones, pares",-3.61588890108825,40.4641760138701
+Feria de Madrid,8,Ascensor,-3.61600894347903,40.4642541214513
+Aeropuerto,8,"Acceso Terminales 1, 2 y 3",-3.57099347979276,40.4682350423449
+Aeropuerto,8,Ascensor,-3.57113502618538,40.4682343449982
+Barajas,8,Avda. LogroÃ±o,-3.58257943345978,40.4758269692233
+Barajas,8,Ascensor,-3.58263408418543,40.4757696465439
+Herrera Oria,9,Ginzo de Limia,-3.70691307930303,40.4837673048152
+Herrera Oria,9,Cardenal Herrera Oria,-3.7085230640898,40.4852816926647
+Barrio del Pilar,9,"Ginzo de Limia, impares",-3.70398677092463,40.4779226630888
+Barrio del Pilar,9,"Ginzo de Limia, pares",-3.70350711750665,40.4780295754074
+Barrio del Pilar,9,Melchor FernÃ¡ndez Almagro,-3.70331656184001,40.4762029298004
+Barrio del Pilar,9,"Ginzo de Limia, pares",-3.70290243154843,40.4762714776428
+Ventilla,9,"Avda. Asturias, pares",-3.69553526312587,40.4695561752822
+Ventilla,9,"Avda. Asturias, impares",-3.6957410113368,40.4693873368654
+Duque de Pastrana,9,Mateo Inurria,-3.67958393408702,40.4675365446137
+PÃ­o XII,9,Avda. PÃ­o XII,-3.67600074146368,40.4625994280609
+PÃ­o XII,9,Avda. PÃ­o XII - Acceso cerrado temporalmente,-3.67548658439071,40.4650477765791
+Concha Espina,9,PrÃ­ncipe de Vergara - Acceso cerrado temporalmente,-3.67735266034115,40.4525329231786
+Cruz del Rayo,9,"PrÃ­ncipe de Vergara, pares",-3.67799967861734,40.4462345964948
+Cruz del Rayo,9,"PrÃ­ncipe de Vergara, impares",-3.67838086012464,40.4462609665148
+Cruz del Rayo,9,"PrÃ­ncipe de Vergara, impares - Acceso cerrado temporalmente",-3.67872443506022,40.4431651880781
+Cruz del Rayo,9,"PrÃ­ncipe de Vergara, pares - Acceso cerrado temporalmente",-3.67834276771256,40.4431354833684
+Ibiza,9,Ibiza,-3.67799747716729,40.4183659586862
+Estrella,9,"Camino de los Vinateros, impares",-3.66009376448971,40.4112084319476
+Estrella,9,"Camino de los Vinateros, pares",-3.66023011563345,40.4105978618019
+Estrella,9,Estrella Polar,-3.66348177633153,40.41176166827
+Vinateros,9,"Vinateros, impares",-3.65012951304264,40.4098640986077
+Vinateros,9,Corregidor JosÃ© de Pasamonte,-3.64996326677344,40.4095040739726
+Vinateros,9,"Vinateros, pares",-3.65253266664846,40.409993870991
+Vinateros,9,Arroyo Belincoso,-3.6528309500787,40.4102296146281
+Artilleros,9,"Vinateros, impares",-3.64410753941548,40.4069951932045
+Artilleros,9,"Vinateros, pares",-3.64423499058565,40.4066435416489
+Artilleros,9,Vinateros,-3.64149707894933,40.4053667864751
+Artilleros,9,Pico de Artilleros,-3.64171218981612,40.4050256534021
+Pavones,9,"Hacienda de Pavones, impares",-3.63544358290633,40.400812912538
+Pavones,9,"Hacienda de Pavones, pares",-3.63551296822724,40.4006559248969
+Valdebernardo,9,Bulevar Indalecio Prieto - Raya,-3.62117548376383,40.4009786479342
+Valdebernardo,9,Bulevar Indalecio Prieto - Pinillas,-3.62190663484909,40.3991275419845
+Valdebernardo,9,Ascensor,-3.62133858752114,40.4007965979429
+VicÃ¡lvaro,9,"PÂº Artilleros, impares",-3.60889267744597,40.4044926294025
+VicÃ¡lvaro,9,"PÂº Artilleros, pares",-3.60916768404448,40.4048050817261
+VicÃ¡lvaro,9,Ascensor,-3.60926103232037,40.4043192047317
+San Cipriano,9,"San Cipriano, pares",-3.60399672178955,40.403889957178
+San Cipriano,9,"San Cipriano, impares",-3.60366009287143,40.404159329903
+San Cipriano,9,Ascensor,-3.60356408672778,40.4038674087566
+Puerta de Arganda,9 - Renfe,Terminal de Autobuses,-3.5961683047877,40.4020654722245
+Puerta de Arganda,9 - Renfe,Ascensor,-3.59563716517164,40.4013819295442
+Puerta de Arganda,9 - Renfe,Renfe,-3.59576059186944,40.4013679228984
+Rivas Urbanizaciones,"9, Zona B1",Paseo del Ferrocarril,-3.54777675649112,40.3671049004829
+Rivas Vaciamadrid,"9, Zona B2",Wenceslao GarcÃ­a,-3.52023454000854,40.3281616421309
+La Poveda,"9, Zona B3",Ctra. Campo Real,-3.47781959833185,40.3188857430355
+Arganda del Rey,"9, Zona B3",PÂº de la EstaciÃ³n,-3.44750939744577,40.3036760532805
+Fuencarral,10,Barrio Santa Ana,-3.69325731433254,40.4951260123598
+Tres Olivos,10,Retablo de Melisendra,-3.6943319889883,40.5005536482076
+Montecarmelo,10,Avda. Monasterio de Silos,-3.69596245743744,40.5053321622178
+Montecarmelo,10,Ascensor,-3.6959888300355,40.5053062222677
+Rda. de la ComunicaciÃ³n,10,Maestro Mateo,-3.66287513699992,40.5156907362029
+Rda. de la ComunicaciÃ³n,10,Ascensor,-3.66285188305238,40.5157897070109
+La Granja,10,La Granja,-3.65856415387628,40.5277079361787
+La Moraleja,10,Avda. de Bruselas,-3.63546805731951,40.5319893889631
+La Moraleja,10,Ascensor,-3.63546969891744,40.5318952992415
+MarquÃ©s de la Valdavia,10,MarquÃ©s de la Valdavia,-3.63751101189162,40.541035618185
+MarquÃ©s de la Valdavia,10,Ascensor,-3.63754103576071,40.5410634714048
+MarquÃ©s de la Valdavia,10,PÂº de la Chopera,-3.63850236685634,40.5409448136362
+Manuel de Falla,10,Manuel de Falla,-3.64701573828393,40.5504840912354
+Manuel de Falla,10,Ascensor,-3.64683618658866,40.5506161591828
+Baunatal,10,Avda. Lomas del Rey,-3.6350857554585,40.5543927555491
+Baunatal,10,Ascensor,-3.63538821625866,40.5544306964255
+Reyes CatÃ³licos,10,Avda. Plaza de Toros,-3.62356366326289,40.550344230629
+Reyes CatÃ³licos,10,Ascensor,-3.62353590089614,40.5503352514748
+Hospital Infanta SofÃ­a,10,Ascensor,-3.61140369689541,40.5601855100909
+Hospital Infanta SofÃ­a,10,Hospital Infanta SofÃ­a,-3.6107288586913,40.5596991740434
+Hospital Infanta SofÃ­a,10,Poeta Rafael Morales,-3.61236858127134,40.5600117168437
+BegoÃ±a,10,Ciudad Sanitaria La Paz,-3.68592547309623,40.4802330338078
+BegoÃ±a,10,San Modesto,-3.68708520153434,40.4834446286107
+ChamartÃ­n,10 - Renfe,Renfe,-3.68218270583742,40.472957869126
+ChamartÃ­n,10 - Renfe,ChamartÃ­n,-3.6830327753937,40.4730273890203
+Cuzco,10,"PÂº de la Castellana, impares",-3.69036489262141,40.458371047871
+Cuzco,10,"PÂº de la Castellana, pares",-3.68981735811534,40.4583463906309
+Santiago Bernabeu,10,Plaza de Lima,-3.69125331768978,40.4514822143191
+Santiago Bernabeu,10,"PÂº de la Castellana, pares",-3.69047841255381,40.4512986928557
+Santiago Bernabeu,10,"PÂº de la Castellana, impares",-3.69078355683012,40.4536182651163
+Santiago Bernabeu,10,"PÂº de la Castellana, pares",-3.69030932852509,40.4536053528408
+Lago,10,El Lago,-3.73490310697874,40.4165104217116
+BatÃ¡n,10,VillamanÃ­n,-3.75291302651079,40.4076944316027
+BatÃ¡n,10,Venta del BatÃ¡n,-3.75321782335592,40.4080497647553
+Casa de Campo,"5, 10",Camino de Campamento,-3.76087933102841,40.403220734166
+AviaciÃ³n EspaÃ±ola,10,Fuente de Lima,-3.78389501220271,40.3837072440539
+Cuatro Vientos,10 - Renfe,PÂº de los HÃºsares,-3.79253108290607,40.3783771651613
+JoaquÃ­n Vilumbrales,10,"Avda. de la LIbertad, pares",-3.80732010024225,40.3496556331632
+Campamento,5,"Padre Piquer, impares",-3.76809929520213,40.3946930071996
+Campamento,5,"Padre Piquer, pares",-3.76843559181845,40.3945869347512
+Empalme,5,Padre Piquer,-3.76581417079795,40.3908692975244
+Abrantes,11,"Avenida de Abrantes, pares",-3.72814494835089,40.3810564162377
+Abrantes,11,"Avenida de Abrantes, impares",-3.72817554115471,40.3806180381779
+Pan Bendito,11,"Avenida de Abrantes, pares - Besolla",-3.73463852929972,40.3758768276958
+Pan Bendito,11,"Avenida de Abrantes, impares - Besolla",-3.73431892109528,40.3756616556752
+Pan Bendito,11,Ascensor,-3.73447673197876,40.376064934919
+San Francisco,11,Ascensor,-3.74026432011719,40.373437435383
+San Francisco,11,"Avenida Los Poblados, impares",-3.74002003129868,40.3738501703525
+San Francisco,11,"Avenida Los Poblados, pares",-3.73993099847302,40.3734546272857
+Carabanchel Alto,11,Avenida Carabachel Alto,-3.75178374074679,40.3719725818831
+La Peseta,11,Avda. La Peseta,-3.75664666792125,40.3643144909672
+Puerta del Sur,"10, 12 (Metrosur)","Avda. de la Libertad, pares",-3.8116078601248,40.3454598737788
+Parque de Lisboa,12 (Metrosur),Avenida de LeganÃ©s,-3.8214627296165,40.3498396822239
+AlcorcÃ³n Central,12 (Metrosur) - Renfe,Avenida MÃ³stoles - BailÃ©n,-3.83194822734176,40.3495556184098
+Parque Oeste,12 (Metrosur),Estambul,-3.84928024956995,40.3460679425554
+Univ. Rey Juan Carlos,12 (Metrosur),Avenida Alcalde de MÃ³stoles,-3.87217243896908,40.3347846130512
+Alsacia,2,Ascensor,-3.6231568937944,40.4179965627617
+MÃ³stoles Central,12 (Metrosur) - Renfe,Paseo de la EstaciÃ³n,-3.86339200066285,40.3286513139614
+Pradillo,12 (Metrosur),Plaza del Pradillo,-3.8646399436671,40.3215508310221
+Hospital de MÃ³stoles,12 (Metrosur),RÃ­o Ebro - RÃ­o Sella,-3.87458969018234,40.3163718996517
+Manuela MalasaÃ±a,12 (Metrosur),Manuela MalasaÃ±a,-3.86481777833085,40.3091198624279
+Loranca,12 (Metrosur),Plaza de la Concordia,-3.83758134572007,40.2970321836367
+Hospital de Fuenlabrada,12 (Metrosur),Camino del Molino - Hospital,-3.8166336475012,40.2857653658144
+Fuenlabrada Central,12 (Metrosur) - Renfe,Paseo de la EstaciÃ³n,-3.79892997151369,40.2826901121484
+Parque de los Estados,12 (Metrosur),Avenida de los Estados,-3.78734416359637,40.2865406715091
+Arroyo Culebro,12 (Metrosur),Las Ciencias,-3.75684051483226,40.2889716191375
+Conservatorio,12 (Metrosur),Senda de Mafalda,-3.74613483900585,40.293415621189
+Alonso de Mendoza,12 (Metrosur),Ferrocarril - El Greco,-3.73635113916614,40.3007725298155
+Getafe Central,12 (Metrosur) - Renfe,Renfe,-3.73400828179119,40.3099315970233
+Juan de la Cierva,12 (Metrosur),"Avenida de EspaÃ±a, pares",-3.72236279677023,40.3116956740458
+El Casar,12 (Metrosur) - Renfe,Avenida del Casar (Renfe),-3.7099971543221,40.3186470600679
+Los Espartales,12 (Metrosur),Avenida de Rigoberta MenchÃº,-3.71831236659564,40.3242829468522
+El Bercial,12 (Metrosur),El Bercial,-3.72995379806747,40.3294284436212
+El Carrascal,12 (Metrosur),"Avenida Rey Juan Carlos I, pares",-3.74004174644819,40.3364264592079
+JuliÃ¡n Besteiro,12 (Metrosur),"Avenida Rey Juan Carlos I, pares",-3.75240908588531,40.3344621090557
+Casa del Reloj,12 (Metrosur),Casa del Reloj,-3.75935559787655,40.3267016201915
+Hospital Severo Ochoa,12 (Metrosur),Hospital Severo Ochoa,-3.76866210158385,40.3214749583263
+LeganÃ©s Central,12 (Metrosur) - Renfe,Avenida del Cobre,-3.77174829113601,40.3289862395749
+San Nicasio,12 (Metrosur),Avenida del Mar MediterrÃ¡neo,-3.77574401615121,40.3364394841947
+Pinar del Rey,8,Gran VÃ­a de Hortaleza,-3.64819003156594,40.4681733492114
+Pinar del Rey,8,Ascensor,-3.64816066730289,40.4680037975521
+Aeropuerto T-4,8,Aeropuerto T-4,-3.5928316822532,40.4914947487783
+Fuente de la Mora,ML 1,Camino Fuente de la Mora,-3.66313989975714,40.4855793853736
+Fuente de la Mora,ML 1,Ascensor,-3.66283038563962,40.4856512216111
+Virgen del Cortijo,ML 1,Avda. Manoteras,-3.66108001084637,40.4874634253559
+Antonio Saura,ML 1,PrÃ­ncipe Carlos,-3.65366130070774,40.4853410776674
+Ãlvarez de Villaamil,ML 1,PrÃ­ncipe Carlos,-3.65131951551356,40.4891202305082
+Blasco IbÃ¡Ã±ez,ML 1,PrÃ­ncipe Carlos,-3.65575884241723,40.4936202134549
+Maria Tudor,ML 1,MarÃ­a Tudor,-3.65899084492218,40.4970533701325
+Las Tablas,ML 1,Palas de Rey,-3.66959358595247,40.5084005834692
+Las Tablas,ML 1 - 10,Ascensor,-3.66967912571802,40.5083294740428
+Prado de la Vega,ML 2,Prado de la Vega,-3.78142929885651,40.402316863727
+Colonia de los Ãngeles,ML 2,Colonia de los Ãngeles,-3.7845505088883,40.4071975450717
+Prado del Rey,ML 2,Prado del Rey,-3.78761817247702,40.4104467422217
+Somosaguas Sur,ML 2,Somosaguas Sur,-3.79262281594372,40.415020389386
+Somosaguas Centro,ML 2,Somosaguas Centro,-3.7987567969521,40.4192262401834
+Pozuelo Oeste,ML 2,Pozuelo Oeste,-3.80455217907555,40.4229707542916
+BÃ©lgica,ML 2,BÃ©lgica,-3.80751163663803,40.4306262713028
+Dos Castillas,ML 2,Dos Castillas,-3.80171199680545,40.432545021715
+Campus de Somosaguas,ML 2,Campus de Somosaguas,-3.79528880418345,40.433540634872
+Avenida de Europa,ML 2,Avenida de Europa,-3.79312523800588,40.4390261969546
+EstaciÃ³n de Aravaca,ML 2 - Renfe,EstaciÃ³n de Aravaca,-3.78561832044097,40.4483442935276
+Colonia JardÃ­n,ML 3 - ML 2 - 10,Arenas de San Pedro,-3.77479265860302,40.3970938131762
+Colonia JardÃ­n,ML 3 - ML 2 - 10,Sedano,-3.77388528462046,40.3972359558363
+Colonia JardÃ­n,ML 3 - ML 2 - 10,Ascensor,-3.77420688025779,40.3971717509307
+Ciudad de la Imagen,ML 3,Ciudad de la Imagen,-3.78408382726473,40.3970980563172
+JosÃ© Isbert,ML 3,JosÃ© Isbert,-3.78998340086262,40.3952920011985
+Ciudad del Cine,ML 3,Ciudad del Cine,-3.79551978818706,40.3945929075535
+Cocheras,ML 3,Cocheras,-3.80392565117581,40.3968947886712
+Retamares,ML 3,Retamares,-3.81673738745278,40.3987653561616
+MonteprÃ­ncipe,ML 3,MonteprÃ­ncipe,-3.83591067416317,40.3978723312553
+Ventorro del Cano,ML 3,Ventorro del Cano,-3.83819157840745,40.3942790831834
+Prado del Espino,ML 3,Prado del Espino,-3.84766500416605,40.3950812084173
+Cantabria,ML 3,Cantabria,-3.86442561770557,40.3953385724389
+Ferial de Boadilla,ML 3,Ferial de Boadilla,-3.87943885140101,40.4020211073043
+Boadilla Centro,ML 3,Boadilla Centro,-3.88013655275202,40.4071580552826
+Nuevo Mundo,ML 3,Nuevo Mundo,-3.88568342677263,40.4057103571788
+Siglo XXI,ML 3,Siglo XXI,-3.89275585497545,40.4051844390748
+Infante Don Luis,ML 3,Infante Don Luis,-3.89745739586484,40.406020630511
+Puerta de Boadilla,ML 3,Puerta de Boadilla,-3.90383901164593,40.407700913796
+PrÃ­ncipe PÃ­o,"6, 10, R - Renfe",Renfe,-3.72004474153412,40.4217022784015
+Rivas Futura,9,ConcepciÃ³n Arenal,-3.52648268239068,40.3413736411526
+Rivas Futura,9,Marie Curie,-3.52663884428017,40.3396252398887
+ChamartÃ­n,10 - Renfe,Ascensor,-3.683329123141,40.4731739176069
+Plaza de Castilla,"9,10,1",Intercambiador - Bravo Murillo,-3.69034041151518,40.4662863432621
+Nuevos Ministerios,"6,8,10 - Renfe",Ascensor nÂº 2,-3.69321234487381,40.4468380267705
+Nuevos Ministerios,"6,8,10 - Renfe","PÂº de la Castellana, impares (bulevar)",-3.69205373284332,40.4436800927621
+Nuevos Ministerios,"6,8,10 - Renfe",Ascensor nÂº 5,-3.69195085705462,40.443626808021
+Nuevos Ministerios,"6,8,10 - Renfe",Renfe - Raimundo FernÃ¡ndez Villaverde,-3.69219711432211,40.4466174703126
+Plaza de EspaÃ±a,"3, 10",Ascensor,-3.7118135061039,40.4241273004192
+Plaza de EspaÃ±a,"3, 10",Ascensor,-3.70921804580189,40.4245821315943
+Casa de Campo,"5, 10",Ascensor,-3.76103041153694,40.4032954337008
+AviaciÃ³n EspaÃ±ola,10,Ascensor,-3.78367438515673,40.3836674530127
+Cuatro Vientos,10 - Renfe,PÂº de Extremadura,-3.79249696874685,40.3775646323842
+Cuatro Vientos,10 - Renfe,Ascensor nÂº 1,-3.79274396739914,40.3782251650296
+Cuatro Vientos,10 - Renfe,Ascensor nÂº 2,-3.79244680216823,40.377592320687
+Cuatro Vientos,10 - Renfe,Renfe,-3.79177011393031,40.3776895443586
+JoaquÃ­n Vilumbrales,10,"Avda. de la LIbertad, impares",-3.80764583916861,40.3498250730997
+JoaquÃ­n Vilumbrales,10,Ascensor,-3.80745068151327,40.3499955825958
+Puerta del Sur,"10, 12 (Metrosur)",Ascensor,-3.81149908736855,40.3455459981095
+Puerta del Sur,"10, 12 (Metrosur)","Avda. de la Libertad, impares",-3.81155167182181,40.3459694951948
+GuzmÃ¡n El Bueno,"6, 7",Ascensor,-3.71365191499213,40.4458741095972
+Puerta del Sur,"10, 12 (Metrosur)",OlÃ­mpico Francisco FernÃ¡ndez Ochoa,-3.81288596563269,40.3447676254256
+San Nicasio,12 (Metrosur),La Encina,-3.77506609676373,40.337164333754
+San Nicasio,12 (Metrosur),Ascensor,-3.7759229554776,40.3362513773475
+LeganÃ©s Central,12 (Metrosur) - Renfe,Ascensor,-3.7718893768785,40.3288840286093
+LeganÃ©s Central,12 (Metrosur) - Renfe,Renfe,-3.77099846467251,40.3288979886623
+Hospital Severo Ochoa,12 (Metrosur),Avenida de Orellana,-3.76852609798833,40.32208865873
+Hospital Severo Ochoa,12 (Metrosur),Ascensor,-3.76865114968405,40.3218359339909
+Casa del Reloj,12 (Metrosur),Ascensor,-3.75956387676155,40.326488869313
+Casa del Reloj,12 (Metrosur),"Avenida de Gibraltar, impares",-3.7595690942494,40.3268218988701
+JuliÃ¡n Besteiro,12 (Metrosur),Ascensor,-3.75254757790417,40.3346865496435
+JuliÃ¡n Besteiro,12 (Metrosur),"Avenida Rey Juan Carlos I, impares",-3.75240284591876,40.3347808403264
+El Carrascal,12 (Metrosur),Ascensor,-3.74048723409305,40.3365562173955
+El Carrascal,12 (Metrosur),"Avenida Rey Juan Carlos I, impares",-3.74029902337371,40.3368409646271
+Los Espartales,12 (Metrosur),Ascensor,-3.71800719263523,40.3241478495379
+El Casar,12 (Metrosur) - Renfe,Ascensor,-3.71004964748329,40.3184108793539
+Juan de la Cierva,12 (Metrosur),"Avenida de EspaÃ±a, impares",-3.72259700213885,40.3118186579524
+Juan de la Cierva,12 (Metrosur),Ascensor,-3.72240606886123,40.3121080559767
+Getafe Central,12 (Metrosur) - Renfe,Paseo del Ferrocarril,-3.73307746648012,40.3099698138609
+Getafe Central,12 (Metrosur) - Renfe,Ascensor,-3.73318951415302,40.3099029871956
+Alonso de Mendoza,12 (Metrosur),Ascensor,-3.73678805205293,40.3008744472573
+Conservatorio,12 (Metrosur),Ascensor,-3.74583073074297,40.2933520003597
+Arroyo Culebro,12 (Metrosur),Ascensor,-3.75675663346249,40.2885838812971
+Parque de los Estados,12 (Metrosur),Ascensor,-3.78701331442176,40.2866102707077
+Parque de los Estados,12 (Metrosur),La Habana,-3.78702823100868,40.286960181419
+Fuenlabrada Central,12 (Metrosur) - Renfe,Ascensor,-3.79886205316782,40.2826074272622
+Fuenlabrada Central,12 (Metrosur) - Renfe,Renfe,-3.79956890550742,40.2831721887373
+Parque Europa,12 (Metrosur),Ascensor,-3.80644409146862,40.285297601367
+Hospital de Fuenlabrada,12 (Metrosur),Ascensor,-3.81656993152065,40.2857653578947
+Hospital de Fuenlabrada,12 (Metrosur),Camino del Molino - Universidad,-3.81722963260872,40.2851191074405
+Loranca,12 (Metrosur),Ascensor,-3.83751933370663,40.2968847469456
+Loranca,12 (Metrosur),Avenida de Pablo Iglesias,-3.83757282237025,40.2964498146917
+Manuela MalasaÃ±a,12 (Metrosur),Ascensor,-3.86474619318768,40.3091153199516
+Hospital de MÃ³stoles,12 (Metrosur),Ascensor,-3.8745489711112,40.3164156124235
+Pradillo,12 (Metrosur),Ascensor,-3.86470438133235,40.3215863849293
+MÃ³stoles Central,12 (Metrosur) - Renfe,Ascensor,-3.86336327231999,40.3287454128714
+MÃ³stoles Central,12 (Metrosur) - Renfe,Renfe,-3.86453150382368,40.3282512056346
+Univ. Rey Juan Carlos,12 (Metrosur),Ascensor,-3.87217560306967,40.3348560988943
+Univ. Rey Juan Carlos,12 (Metrosur),Avenida Alcalde de MÃ³stoles,-3.87265869156929,40.334441512847
+Parque Oeste,12 (Metrosur),Ascensor,-3.84928210994297,40.3461221604662
+AlcorcÃ³n Central,12 (Metrosur) - Renfe,Avenida MÃ³stoles - Navalcarnero,-3.83153497252144,40.3498878552899
+AlcorcÃ³n Central,12 (Metrosur) - Renfe,Ascensor exterior,-3.83226023076131,40.3497365203967
+AlcorcÃ³n Central,12 (Metrosur) - Renfe,Renfe,-3.83191760379889,40.3500031320179
+Parque de Lisboa,12 (Metrosur),Ascensor,-3.82105382548561,40.3495708002804
+La Peseta,11,Ascensor,-3.75666363084932,40.3642851795407
+Carabanchel Alto,11,Ascensor,-3.75170229196458,40.3718027944828
+Abrantes,11,Ascensor,-3.72812443841578,40.3810063380397
+Plaza ElÃ­ptica,"6, 11",Ascensor,-3.7181592212816,40.3853452311911
+Plaza ElÃ­ptica,"6, 11",Intercambiador,-3.71818978280531,40.3846919043842
+Avenida de AmÃ©rica,"4, 6, 7, 9","Intercambiador - Avenida de AmÃ©rica, pares",-3.67656147508028,40.4377027451082
+Pavones,9,Terminal de Autobuses,-3.63514459434077,40.4005497595292
+Rivas Futura,9,Ascensor,-3.5262882597293,40.3411577124051
+Aeropuerto,8,Ascensor,-3.57193071698219,40.4679060415798
+Islas Filipinas,7,Ascensor,-3.71435375070258,40.4389707385776
+Pueblo Nuevo,"5, 7",Ascensor,-3.64351248582542,40.4352410391931
+Las Musas,7,"Avda. Niza, pares",-3.60746925014263,40.4326123490496
+Estadio OlÃ­mpico,7,Ascensor,-3.60158722004007,40.432962298501
+Estadio OlÃ­mpico,7,Estadio de Madrid,-3.60121597115906,40.4343980164158
+Barrio del Puerto,7,Ascensor,-3.56900952456457,40.4225637855028
+San Fernando,7,Ascensor,-3.53609387241106,40.4245923473972
+Jarama,7,Ascensor,-3.52532919250935,40.4229352437809
+Henares,7,Ascensor,-3.52741510929194,40.4177310567789
+Hospital del Henares,7,Hospital del Henares,-3.53425169349098,40.4176644756708
+Hospital del Henares,7,Ascensor,-3.53443566882273,40.4177093660716
+Diego de LeÃ³n,"4, 5, 6","Francisco Silvela, pares (rampa)",-3.67437035103792,40.4349173017323
+Diego de LeÃ³n,"4, 5, 6","Francisco Silvela, pares",-3.67283285182112,40.4331649208325
+Conde de Casal,6,Ascensor,-3.67047721477731,40.4069620494257
+Legazpi,"3, 6",Plaza de Legazpi (esquina Bolivar),-3.69448554897984,40.391238846772
+Legazpi,"3, 6",Ascensor,-3.69447552164259,40.3911960534563
+Usera,6,Ascensor,-3.70680673545466,40.3870228213528
+Laguna,6 - Renfe,Ascensor,-3.74408896575038,40.3990003646357
+ArgÃ¼elles,"3, 4, 6",Ascensor,-3.71573299063554,40.4306928087008
+Moncloa,"3, 6",Arcipreste de Hita,-3.718061265189,40.4335402207698
+Cuatro Caminos,"1, 2, 6",Ascensor,-3.70382247313887,40.446473020507
+RepÃºblica Argentina,6,"JoaquÃ­n Costa, pares (rampa)",-3.68383274902474,40.443283348184
+Ventas,"2, 5",Plaza de Toros,-3.66343782743521,40.431201325899
+Callao,"3, 5",Jacometrezo,-3.7063644820793,40.4201448631652
+Callao,"3, 5",Ascensor,-3.70663916060986,40.420163625421
+Callao,"3, 5",Centro Comercial,-3.70538910966681,40.4196014923299
+Callao,"3, 5",Ascensor,-3.70584109715844,40.4201439776876
+Virgen del Cortijo,ML 1,Ascensor,-3.66145845022336,40.4875091824855
+Blasco IbÃ¡Ã±ez,ML 1,Ascensor,-3.65571903394516,40.4935963921065
+Maria Tudor,ML 1,Ascensor,-3.65895864324193,40.4970796610188
+Maria Tudor,ML 1,Catalina de Austria,-3.65826585474265,40.497729453279
+Palas de Rey,ML 1,Palas de Rey,-3.66580165922585,40.5059938999446
+Antonio Machado,7,Valderrodrigo,-3.71810786258669,40.4699567987557
+Canillas,4,"Avenida Machupichu, impares",-3.63560404716285,40.4638170554662
+Goya,"2, 4",Ascensores 4 y 5,-3.67653602401792,40.4249127032988
+Goya,"2, 4",Ascensores 2 y 3,-3.67645524796249,40.4242438934614
+Goya,"2, 4",Ascensor 1,-3.67731451767866,40.4244170640571
+ColÃ³n,4,Museo de Cera,-3.69164399143279,40.4250812555563
+San FermÃ­n - Orcasur,3,"Avenida de AndalucÃ­a, pares",-3.69462146282742,40.3697923916426
+Delicias,3,Ascensor,-3.69418311064694,40.3999821576391
+Delicias,3,"PÂº de las Delicias, impares",-3.69390957475864,40.40019925509
+Palos de la Frontera,3,Ascensor,-3.69414274642513,40.403130939957
+Embajadores,3 - Renfe,Ascensor,-3.70289915208691,40.404672078536
+LavapiÃ©s,3,Ascensor,-3.70039342552832,40.4084200967765
+Sol,"1, 2, 3",Ascensor,-3.70439184317379,40.4166632791975
+Sol,"1, 2, 3",Preciados,-3.70442393268709,40.4174797251049
+Ventura RodrÃ­guez,3,"Princesa, pares",-3.71355622189365,40.4271497695366
+Ventura RodrÃ­guez,3,Ascensor,-3.71341696121373,40.426954686934
+Banco de EspaÃ±a,2,Paseo del Prado - Autobuses,-3.69343491261279,40.4189903720865
+Banco de EspaÃ±a,2,Paseo del Prado - Bulevar,-3.69347071736111,40.4188264585521
+Retiro,2,Lagasca (rampa),-3.6858180382679,40.4208261594627
+La Elipa,2,Ascensor,-3.65042727325534,40.4265204714407
+Atocha Renfe,1 - Renfe,Ascensor,-3.6890088173189,40.4074942030312
+Iglesia,1,Ascensor,-3.69844992427089,40.4350656336824
+Iglesia,1,Ascensor,-3.6990312721602,40.4347616979259
+BambÃº,1,BambÃº,-3.67732816075083,40.474995146258
+BambÃº,1,Ascensor,-3.67735463623026,40.4749346753719
+Berna,ML 2,Ascensor,-3.79109936571971,40.4446100977842
+Avenida de Europa,ML 2,Ascensor,-3.79300699137765,40.4395913012739
+Somosaguas Sur,ML 2,Ascensor,-3.79263813947249,40.4156637278939
+MonteprÃ­ncipe,ML 3,Ascensor,-3.83591465994315,40.3978058883582
+La Fortuna,11,Ascensor,-3.77747654534606,40.3579141151898
+La Fortuna,11,San JosÃ©,-3.77775828728267,40.3580419727318
+La Almudena,2,Arriaga,-3.63929163916497,40.4237370099558
+Alsacia,2,Avenida de Guadalajara,-3.62321467610204,40.4187504706675
+Alsacia,2,Ascensor,-3.62326338716292,40.4186145192159
+Alsacia,2,Intercambiador,-3.62306997671865,40.4177022846531
+La Almudena,2,Ascensor,-3.63912933961301,40.423828620994
+Avenida de Guadalajara,2,Dresde,-3.61194216221862,40.4223715752818
+Avenida de Guadalajara,2,Ascensor,-3.61157598232524,40.4225281691608
+Las Rosas,2,Paseo de Ginebra,-3.60358256348611,40.4238772491048
+Las Rosas,2,Ascensor,-3.60251157031649,40.4235675014553
+Mirasierra,9,Mirasierra,-3.71646812932258,40.4911810630921
+Mirasierra,9,Ascensor,-3.71671717491601,40.4907272632359
+Fuente de la Mora,ML 1,Camino Fuente de la Mora,-3.66287206140422,40.4846587804415
+Fuente de la Mora,ML 1,Ascensor,-3.66329127956423,40.484716050184
+Gran Via,"1, 5",Tres Cruces - Montera,-3.7019253,40.41993559
+Anton Martin,1,Atocha,-3.69868126,40.4122851
